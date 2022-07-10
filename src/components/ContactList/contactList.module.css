@@ -1,0 +1,13 @@
+.contactList {
+  list-style: none;
+  font-size: 20px;
+}
+.item {
+  margin-bottom: 15px;
+}
+.btn {
+  margin-left: 10px;
+}
+.btn:hover {
+  border: 2px solid rgb(67, 145, 145);
+}

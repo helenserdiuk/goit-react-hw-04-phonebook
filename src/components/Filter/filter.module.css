@@ -1,0 +1,10 @@
+.filter {
+  margin-left: 10px;
+  font-size: 20px;
+}
+.input {
+  margin-left: 10px;
+}
+.input:hover {
+  border: 2px solid rgb(67, 145, 145);
+}
